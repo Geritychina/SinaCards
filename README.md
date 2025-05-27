@@ -89,9 +89,6 @@ mern-flashcards-app
 
 The application should now be running on `http://localhost:3000`.
 
-## Contributing
-
-Feel free to submit issues or pull requests for any improvements or bug fixes.
 
 ## License
 
