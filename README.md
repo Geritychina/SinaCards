@@ -52,7 +52,7 @@ mern-flashcards-app
 
 --
 
-🔺Required files: 
+🔺Required files: <br>
 .env
 node_modules
 --
