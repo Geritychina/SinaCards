@@ -45,51 +45,16 @@ mern-flashcards-app
 └── README.md              # General project documentation
 ```
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js
 - MongoDB
-
-### Installation
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-
-2. Navigate to the client directory and install dependencies:
-   ```
-   cd client
-   npm install
-   ```
-
-3. Navigate to the server directory and install dependencies:
-   ```
-   cd ../server
-   npm install
-   ```
-
-### Running the Application
-
-1. Start the MongoDB server.
-
-2. Start the server:
-   ```
-   cd server
-   npm start
-   ```
-
-3. Start the client:
-   ```
-   cd ../client
-   npm start
-   ```
-
-The application should now be running on `http://localhost:3000`.
-
-
+- 
+--
 ## License
 
 This project is licensed under the MIT License.
+
+--
+
+Made with love by Gergana ™
