@@ -52,6 +52,11 @@ mern-flashcards-app
 
 --
 
+🔺Required files: 
+.env
+node_modules
+--
+
 ❗ Don't forget to install node_modules locally! 🔺
 --
 
