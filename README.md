@@ -1,4 +1,4 @@
-# SinaCards Mern Flashcards App ㊗㊙🈷
+# SinaCards Mern Flashcards App ㊙🈷
 
 This project is a web-based application built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to manage a collection of words as flashcards. Users can perform CRUD (Create, Read, Update, Delete) operations on the words, search for specific words, and export the list of words.
 
@@ -49,11 +49,10 @@ mern-flashcards-app
 
 - Node.js
 - MongoDB
-- 
---
-## License
 
-This project is licensed under the MIT License.
+--
+
+❗ Don't forget to install node_modules locally! 🔺
 
 --
 
