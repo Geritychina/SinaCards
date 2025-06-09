@@ -56,7 +56,6 @@ mern-flashcards-app
 --
 .env <br>
 node_modules
-
 --
 
 Made with love by Gergana ™
