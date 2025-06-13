@@ -50,7 +50,6 @@ mern-flashcards-app
 - Node.js
 - MongoDB
 
---
 
 🔺Required Files: <br>
 --
